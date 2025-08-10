@@ -1,0 +1,16 @@
+{
+  "shard_id": "sentiment_classifier_v2_head",
+  "version": "2.0.0",
+  "size_bytes": 1257,
+  "checksum": "8de42ba66770887a3fb342dad030f714249c10dff6f70979207efb50e458471a",
+  "model_type": "huggingface",
+  "created_at": "2025-08-10T01:18:59Z",
+  "updated_at": "2025-08-10T01:18:59Z",
+  "description": "Continued training sentiment_classifier_v2: head",
+  "tags": [
+    "continued-training",
+    "huggingface",
+    "sentiment_classifier_v2"
+  ],
+  "dependencies": []
+}
