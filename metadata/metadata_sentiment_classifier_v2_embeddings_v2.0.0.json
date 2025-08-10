@@ -1,0 +1,16 @@
+{
+  "shard_id": "sentiment_classifier_v2_embeddings",
+  "version": "2.0.0",
+  "size_bytes": 15891970,
+  "checksum": "741a6640e6fa04bd8c1a514d480c81caee2a5d557f82fba184afaa3332fa6156",
+  "model_type": "huggingface",
+  "created_at": "2025-08-10T01:18:29Z",
+  "updated_at": "2025-08-10T01:18:29Z",
+  "description": "Continued training sentiment_classifier_v2: embeddings",
+  "tags": [
+    "continued-training",
+    "huggingface",
+    "sentiment_classifier_v2"
+  ],
+  "dependencies": []
+}
