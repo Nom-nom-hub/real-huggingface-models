@@ -1,0 +1,16 @@
+{
+  "shard_id": "sentiment_classifier_head",
+  "version": "1.0.0",
+  "size_bytes": 1257,
+  "checksum": "50d7606ef211d2e4c30d4271f93708c1eac8a6b7c997ff3de4f7053670b56a59",
+  "model_type": "huggingface",
+  "created_at": "2025-08-10T01:05:03Z",
+  "updated_at": "2025-08-10T01:05:03Z",
+  "description": "Fine-tuned sentiment_classifier: head",
+  "tags": [
+    "fine-tuned",
+    "huggingface",
+    "sentiment_classifier"
+  ],
+  "dependencies": []
+}
