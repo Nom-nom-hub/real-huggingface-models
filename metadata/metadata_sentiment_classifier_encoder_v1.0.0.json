@@ -1,0 +1,16 @@
+{
+  "shard_id": "sentiment_classifier_encoder",
+  "version": "1.0.0",
+  "size_bytes": 1589060,
+  "checksum": "a76bdae079f6817705e058ce423d78d63b610d790a16f758f2956e57bb6e420e",
+  "model_type": "huggingface",
+  "created_at": "2025-08-10T01:04:55Z",
+  "updated_at": "2025-08-10T01:04:55Z",
+  "description": "Fine-tuned sentiment_classifier: encoder",
+  "tags": [
+    "fine-tuned",
+    "huggingface",
+    "sentiment_classifier"
+  ],
+  "dependencies": []
+}
