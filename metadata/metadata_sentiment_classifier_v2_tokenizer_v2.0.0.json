@@ -1,0 +1,16 @@
+{
+  "shard_id": "sentiment_classifier_v2_tokenizer",
+  "version": "2.0.0",
+  "size_bytes": 711648,
+  "checksum": "5f218e0ea9eaa9f154815cc067351fb941bea26da81bfd12af3ded3cc66fa3ff",
+  "model_type": "tokenizer",
+  "created_at": "2025-08-10T01:19:02Z",
+  "updated_at": "2025-08-10T01:19:02Z",
+  "description": "Tokenizer for sentiment_classifier_v2 v2",
+  "tags": [
+    "tokenizer",
+    "huggingface",
+    "sentiment_classifier_v2"
+  ],
+  "dependencies": []
+}
